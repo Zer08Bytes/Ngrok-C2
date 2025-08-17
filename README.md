@@ -10,10 +10,10 @@ Ngrok-C2
 	当然，也适合运维或研发人员，无域名或公网服务器的时候，测试网站等CMS
 	注意不是Sunny-Ngrok这个哈
 
-B站视频演示：
+B站视频演示：https://www.bilibili.com/video/BV1moYrzcEpz/?vd_source=229f70258c44853078f16a5decbc2fb0
 
 
 <img width="1413" height="920" alt="图片" src="https://github.com/user-attachments/assets/3f21b3f5-120e-4a24-9b2f-163c1941a1ca" />
 
 
-https://www.bilibili.com/video/BV1moYrzcEpz/?vd_source=229f70258c44853078f16a5decbc2fb0
+
